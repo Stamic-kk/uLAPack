@@ -26,7 +26,6 @@
  * uLAPack options header.
  */
 #include "ulapack_options.h"
-#include "config.hh"
 /*
  * Define the matrix type.
  */

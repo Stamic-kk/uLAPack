@@ -10,3 +10,9 @@
 # Test Executables
 ulapack_test_static
 ulapack_test_dynamic
+
+
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
